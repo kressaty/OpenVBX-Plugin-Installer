@@ -1,0 +1,12 @@
+{
+    "name" : "Plugin Installer",
+    "author" : "Jonathan Kressaty <jonathan.kressaty@gmail.com>",
+    "description" : "Provides basic plugin and applet upload capability",
+    "url" : "http://openvbx.org",
+    "links" : [{
+                        "menu" : "Install Plugin",
+                        "url" : "installer",
+                        "script" : "installer.php",
+                        "label" : "Install Plugin"
+                }]
+}
